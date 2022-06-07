@@ -489,6 +489,8 @@ button {
     width:1px;
     height:1px;
     overflow:hidden;
+    color:#E6E6E6 ;
+    background-color: #0F0F0F;
  }
 
 .sm-shadow {
@@ -511,6 +513,9 @@ button {
 
 .panel-rd .panel-footer {
     border-radius: 0 0 29px 29px;
+}
+.footer-color a{
+    color: #E0E0E0!important;
 }
 
 .form-control {
@@ -761,7 +766,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(32, 28, 17, 0.486);
     padding: 40px 40px 40px 40px;
 }
 
@@ -779,20 +784,21 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #8A320A;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FCE6DA!important;
+    z-index: 1;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #8A320A;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #8A320A!important;
     color: #FFFFFF!important;
 }
 
