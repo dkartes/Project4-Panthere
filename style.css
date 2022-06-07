@@ -788,10 +788,12 @@ h4 {
 }
 
 .tc-white {
-    color: #FCE6DA!important;
+    color: #F3976C!important;
     z-index: 1;
 }
-
+.projecth2{
+    background-color: #1B1E36;
+}
 .btn-atomic-tangerine {
     background: #8A320A;
     color: #FFFFFF!important;
