@@ -668,6 +668,8 @@ a {
 
 .container {
     max-width: 1000px;
+    margin: auto;
+    text-align: center;
 }
 
 .hero-bloc-text {
@@ -849,6 +851,12 @@ h4 {
 .rowfooter{
     display: flex;
     justify-content: center;
+    text-align: left;
+}
+.partenaire{
+    text-align: center;
+    margin: 30px;
+    font-size: 18px;
 }
 @media (max-width: 1024px) {
     .bloc {
